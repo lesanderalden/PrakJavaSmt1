@@ -79,6 +79,6 @@ public class SepedaKampus_04 {
         System.out.println("Diskon : "+diskonRp+"%");
         System.out.println("Total Bayar : "+totalBayar);
         
-
+    alden.close();
     }
 }
